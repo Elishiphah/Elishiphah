@@ -41,7 +41,7 @@ Healthcare data · Data analytics · Health informatics · Artificial intelligen
 
 ### Connect
 
-[LinkedIn](www.linkedin.com/in/elishiphah-wambui-21253a3a0) · [GitHub](https://github.com/Elishiphah)
+[LinkedIn](https://www.linkedin.com/in/elishiphah-wambui-21253a3a0/) · [GitHub](https://github.com/Elishiphah)
 
 
 <!--
