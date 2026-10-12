@@ -1,8 +1,8 @@
 # Elishiphah Wambui
 
-**Health Informatics Student | Aspiring Data Analyst**
+**Health Informatics Student | Junior Data Analyst**
 
-I'm a Health Informatics student at JKUAT with an interest in data analysis, healthcare information, and technology. I'm developing my skills through coursework, independent learning, and hands-on projects.
+I'm a Health Informatics student with an interest in data analysis, healthcare information, and technology. I'm developing my skills through coursework, independent learning, and hands-on projects.
 
 I'm particularly interested in how data can be used to identify patterns, improve decision-making, and address practical problems in healthcare.
 
